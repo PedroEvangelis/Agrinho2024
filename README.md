@@ -11,8 +11,10 @@ Para acessar o site, basta clicar no link a seguir: [Pagina inicial](https://the
 ## Quais tecnologias foram utilizadas?
 
 Como editor de texto, eu utilizei o Visual Studio Code
-Para criar a estrutura visual do site, utilizei HTML uma linguagem de marcação.
-E para criar a estilização, utilizei CSS, uma linguagem de estilização.
+
+Para criar a estrutura visual do site utilizei HTML, uma linguagem de marcação.
+
+E para criar a estilização utilizei CSS, uma linguagem de estilização.
 
 ## Mais informações
 
