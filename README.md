@@ -6,7 +6,7 @@ O site tem o objetivo de mostrar o quê os pequenos produtores de **Cianorte-PR*
 
 ## Como acessar o site?
 
-Para acessar o site, basta clicar no link a seguir: [link.com.br](www.com.br)
+Para acessar o site, basta clicar no link a seguir: [Pagina inicial]([www.com.br](https://thewayxd.github.io/Agrinho2024/src/pages/index.html))
 
 ## Quais tecnologias foram utilizadas?
 
