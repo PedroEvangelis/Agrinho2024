@@ -12,9 +12,9 @@ Para acessar o site, basta clicar no link a seguir: [Pagina inicial](https://the
 
 Como editor de texto, eu utilizei o Visual Studio Code
 
-Para criar a estrutura visual do site utilizei HTML, uma linguagem de marcação.
+Para criar a estrutura visual do site utilizei HTML.
 
-E para criar a estilização utilizei CSS, uma linguagem de estilização.
+E para criar a estilização utilizei CSS.
 
 ## Mais informações
 
